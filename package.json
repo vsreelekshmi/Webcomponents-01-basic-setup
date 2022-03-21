@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/vsreelekshmi.01-basic-setup-fork-l10dyjvx",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve lxU6Rzg5gcArJNIufxJ0 --open"
+  }
+}
